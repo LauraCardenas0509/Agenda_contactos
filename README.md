@@ -1,2 +1,18 @@
-# Agenda_contactos
-Aplicación de escritorio desarrollada en Python con Tkinter que permite gestionar una agenda de contactos. Incluye funcionalidades para agregar, listar, buscar, editar y eliminar contactos almacenados en una base de datos SQLite. Proyecto realizado como parte de la asignatura Metodologías del Desarrollo.
+# Agenda de Contactos
+
+Aplicación de escritorio en Python con Tkinter para gestionar contactos.
+
+## Funcionalidades
+- Agregar contacto (nombre, teléfono, correo).
+- Ver lista de contactos.
+- Eliminar o editar contactos.
+- Interfaz sencilla y amigable.
+
+## Tecnologías
+- Python 3
+- Tkinter (GUI)
+- SQLite (base de datos)
+
+## Ejecución
+1. Clonar este repositorio:
+
