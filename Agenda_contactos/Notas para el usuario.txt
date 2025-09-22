@@ -1,0 +1,21 @@
+*Agenda de Contactos – Documentación de Archivos*
+
+  - main.py → Punto de entrada de la aplicación. Inicializa la ventana y carga la vista principal.
+
+  - home.py → Pantalla de inicio. Contiene botones para agregar contacto, listar contactos y salir.
+
+  - add_contact.py → Vista para agregar un nuevo contacto. Permite ingresar nombre, teléfono y correo.
+
+  - list_contacts.py → Vista para mostrar todos los contactos guardados.
+
+  - styles.py → Archivo de estilos centralizado (colores, fuentes, botones).
+
+*Flujo de uso*
+
+  - El usuario entra a la pantalla principal (home.py).
+
+  - Puede elegir entre agregar un nuevo contacto (add_contact.py) o ver los contactos existentes (list_contacts.py).
+
+  - La aplicación mantiene un diseño uniforme gracias al archivo styles.py.
+
+  - Todo se inicia desde main.py.
